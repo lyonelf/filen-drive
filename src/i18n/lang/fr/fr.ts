@@ -132,7 +132,7 @@ const fr: {
 	favorites: "Favoris",
 	recents: "Récents",
 	trash: "Corbeille",
-	cloudDrive: "Drive Cloud",
+	cloudDrive: "Stockage Cloud",
 	emptyTrash: "Corbeille vide",
 	monthlyRecurring: "par mois",
 	annuallyRecurring: "par an",
